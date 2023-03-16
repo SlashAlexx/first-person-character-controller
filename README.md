@@ -1,2 +1,5 @@
 # first-person-character-controller
-Unity Project to test, develop, and modify a first person character controller in 3D.
+
+## This is a basic framework for first person movement in which features can be added and fine-tuned.
+#### Note: FPCC prefab allows for direct import into another project.
+
