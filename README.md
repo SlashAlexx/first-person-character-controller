@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 # First Person Character Controller
 
 A simple first person character controller asset for Unity 3D.
