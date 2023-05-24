@@ -27,10 +27,4 @@ This asset is designed as a basic skeleton for a more complex controller system.
 ## Disclaimer
 
 This project is still in early development, with many features still planned. Lots of improvements are still needing to be made, so some systems may not work as expected. 
-=======
-# first-person-character-controller
-
-## This is a basic framework for first person movement in which features can be added and fine-tuned.
-#### Note: FPCC prefab allows for direct import into another project.
->>>>>>> 360d5ae5ef4c346ec5ec930e065abf255600257a
 
