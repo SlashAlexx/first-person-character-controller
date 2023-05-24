@@ -16,12 +16,6 @@ public class PlayerMovement : MonoBehaviour
     Vector3 velocity;
     public float jump_height = 3f;
 
-    void Start()
-    {
-        
-    }
-
-
     void Update()
     {
 
